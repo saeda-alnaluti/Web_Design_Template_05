@@ -165,7 +165,7 @@ h1 , h2 , h3 , h4 , h5 , h6 {
 }
 .landing .info .btns a {
     font-weight: bold;
-    padding: 17px 35px;
+    padding: 17px 17px;
     transition: var(--transition);
 }
 .landing .info .btns a:first-child:hover {
