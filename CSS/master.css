@@ -185,7 +185,7 @@ h1 , h2 , h3 , h4 , h5 , h6 {
     right: 0;
 }
 @media (max-width:992px) {
-    .landing img {
+   .landing img {
         display: none;
     }
 }
